@@ -12,7 +12,7 @@
 - FRONT AND
 - C++
 <!--MY GIF-->
-![](https://i.imgur.com/TI5Hpnk.gif)
+
 
 **Entre em contato comigo por meio de:**
 
