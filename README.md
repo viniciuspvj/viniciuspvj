@@ -3,7 +3,9 @@
 - Estudante de TI
 - Jogador Profissional de volêi
 - Lindo, bonito e gostoso
-
+- Estudante de Medicina Veterinário
+- Futuro milionário 
+  
   **Estudo de Linguagens e Comunicão**  
 - CSS
 - HTML
@@ -12,6 +14,7 @@
 - FRONT AND
 - C++
 <!--MY GIF-->
+![img aleatório](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTFDaEkzbAIMwEvkVdpiZgLnBjLBYoTos_7g&usqp=CAU)
 
 
 **Entre em contato comigo por meio de:**
