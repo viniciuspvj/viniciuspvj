@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Informática** na EEEP VENCESLAU VIEIRA BATISTA.
-- 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 💼 Trabalhando como **Programador** na <a href="https://devskin.com/devops?utm_source=google-ads&utm_medium=cpc&utm_term=empresas%20de%20tecnologia&utm_campaign=Search+DevOps&gad_source=1&gclid=EAIaIQobChMI4OKSisCeggMVO_KUCR2yqAEhEAAYASAAEgJr2vD_BwE">DEVSKIN</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
 <h3>Minhas Skills</h3>
